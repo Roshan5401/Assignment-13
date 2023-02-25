@@ -1,17 +1,12 @@
 # Assignment-13
 Screenshots of the pages are presented below
 
-opening view
-![Screenshot (122)](https://user-images.githubusercontent.com/68680320/221258949-2021d69a-41a0-4ab3-bd5e-a74b20a6c00e.png)
+opening view,taking wrong input
+as the input is taken the reply message came that the input is valid
+![Screenshot (127)](https://user-images.githubusercontent.com/68680320/221335083-5cd392a0-2398-4b7e-859f-bc60fd7eb48c.png)
 
-tking the input
-![Screenshot (123)](https://user-images.githubusercontent.com/68680320/221258960-0def3f4c-71d0-48ed-9b39-d3f825e571b4.png)
+correcting the input and submit again
+![Screenshot (128)](https://user-images.githubusercontent.com/68680320/221335092-55e9c759-e1d1-4701-8f43-956925ed40a5.png)
 
-checking and replying the given input is invalid
-![Screenshot (124)](https://user-images.githubusercontent.com/68680320/221258967-570ce015-ac6b-44d5-a6db-a9bc74f23f53.png)
-
-giving now the correct input
-![Screenshot (125)](https://user-images.githubusercontent.com/68680320/221258972-2527865a-c0af-4f36-9b6b-e9c995a6f2ec.png)
-
-output is shown accordingly
-![Screenshot (126)](https://user-images.githubusercontent.com/68680320/221258973-2f96314f-cae9-4c71-baa8-ea0de51ec911.png)
+Output after successful run
+![Screenshot (130)](https://user-images.githubusercontent.com/68680320/221335199-e881ebbf-65ec-436f-b4a6-c7e8a36be129.png)
